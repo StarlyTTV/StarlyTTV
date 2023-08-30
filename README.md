@@ -2,8 +2,6 @@
 
 Hi, I'm Starly
 
-<img src="https://github.com/StarlyTTV/StarlyTTV/blob/main/images/Profile%20Picture.png?raw=true" width="230" height="200">
-
 I'm a Streamer and YouTuber, mostly of Nintendo Games.
 
 The reason why I made a Github Account and make these Repositories is, that I wanna make every Mod I use for a Stream / Video as accessible as possible.
