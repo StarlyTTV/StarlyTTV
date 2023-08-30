@@ -19,4 +19,6 @@ Reddit Account: https://www.reddit.com/user/StarlyTTV
 
 ## Additional YouTube Accounts
 Clips Channel: https://www.youtube.com/@StarlyClips <br>
-VODS Channel: https://www.youtube.com/@StarlyVODS
+VOD Channel: https://www.youtube.com/@StarlyVODS
+German Channel: https://www.youtube.com/@StarlyDE1
+Extra Channel: https://www.youtube.com/@StarlyExtra
