@@ -15,7 +15,7 @@ Discord Server: https://discord.gg/UstTa9tPUs <br>
 Twitter: https://twitter.com/StarlyTTV <br>
 TikTok: https://www.tiktok.com/@starlyttv <br>
 Instagram: https://www.instagram.com/starly_ttv <br>
-Reddit Account: https://www.reddit.com/user/StarlyTTV
+Reddit Account: https://www.reddit.com/user/StarlyTTV <br>
 Speedrun.com: https://www.speedrun.com/users/StarlyTTV
 
 ## Additional YouTube Accounts
