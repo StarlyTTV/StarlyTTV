@@ -4,7 +4,7 @@ Hi, I'm Starly
 
 I'm a Streamer and YouTuber, mostly of Nintendo Games.
 
-The reason why I made a Github Account and make these Repositories is, that I wanna make every Mod I use for a Stream / Video as accessible as possible.
+The reason why I made a Github Account and these Repositories is, that I wanna make every Mod I use for my Streams / Videos as accessible as possible.
 
 I'm planning on creating a bunch of different Mods for Games myself, because there are many ideas that I wanna try out.
 
