@@ -1,6 +1,8 @@
-# About me #
+# About me
 
 Hi, I'm Starly
+
+<img src="https://github.com/StarlyTTV/StarlyTTV/blob/main/images/Profile%20Picture.png?raw=true" width="230" height="200">
 
 I'm a Streamer and YouTuber, mostly of Nintendo Games.
 
@@ -13,6 +15,10 @@ Twitch: https://www.twitch.tv/starlyttv <br>
 YouTube: https://www.youtube.com/@Starly1 <br>
 Discord Server: https://discord.gg/UstTa9tPUs <br>
 Twitter: https://twitter.com/StarlyTTV <br>
-TikTok: https://tiktok.com/@starlyttv <br>
-Instagram: https://instagram.com/starly_ttv <br>
-Reddit Account: https://reddit.com/user/StarlyTTV
+TikTok: https://www.tiktok.com/@starlyttv <br>
+Instagram: https://www.instagram.com/starly_ttv <br>
+Reddit Account: https://www.reddit.com/user/StarlyTTV
+
+## Additional YouTube Accounts
+Clips Channel: https://www.youtube.com/@StarlyClips <br>
+VODS Channel: https://www.youtube.com/@StarlyVODS
