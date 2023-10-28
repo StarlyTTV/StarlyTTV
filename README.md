@@ -22,4 +22,4 @@ Speedrun.com: https://www.speedrun.com/users/StarlyTTV
 Clips Channel: https://www.youtube.com/@StarlyClips <br>
 VOD Channel: https://www.youtube.com/@StarlyVODS <br>
 German Channel: https://www.youtube.com/@StarlyDE1 <br>
-Extra Channel: https://www.youtube.com/@StarlyExtra
+Extra Channel: https://www.youtube.com/@StarlyExtras
