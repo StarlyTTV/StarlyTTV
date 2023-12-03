@@ -8,18 +8,31 @@ The reason why I made a Github Account and these Repositories is, that I wanna m
 
 I'm planning on creating a bunch of different Mods for Games myself, because there are many ideas that I wanna try out.
 
-# Social Media Links #
-Twitch: https://www.twitch.tv/starlyttv <br>
-YouTube: https://www.youtube.com/@Starly1 <br>
+# Links 
+These are the Links from Starly.
+
+## Community
 Discord Server: https://discord.gg/UstTa9tPUs <br>
+Subreddit: https://www.reddit.com/r/starlyttv/
+
+## Stream on Twitch 
+Twitch: https://www.twitch.tv/starlyttv <br>
+
+## YouTube Accounts
+Main Channel: https://www.youtube.com/@Starly1 <br>
+Clips Channel: https://www.youtube.com/@StarlyClips <br>
+VOD Channel: https://www.youtube.com/@StarlyVODS <br>
+German Channel: https://www.youtube.com/@StarlyDE <br>
+Extras Channel: https://www.youtube.com/@StarlyExtras
+
+## Social Media
 Twitter: https://twitter.com/StarlyTTV <br>
 TikTok: https://www.tiktok.com/@starlyttv <br>
 Instagram: https://www.instagram.com/starly_ttv <br>
-Reddit Account: https://www.reddit.com/user/StarlyTTV <br>
-Speedrun.com: https://www.speedrun.com/users/StarlyTTV
 
-## Additional YouTube Accounts
-Clips Channel: https://www.youtube.com/@StarlyClips <br>
-VOD Channel: https://www.youtube.com/@StarlyVODS <br>
-German Channel: https://www.youtube.com/@StarlyDE1 <br>
-Extra Channel: https://www.youtube.com/@StarlyExtras
+## Mod Releases / Documentations
+Github: https://github.com/StarlyTTV <br>
+Romhacking.com: https://romhacking.com/user/Starly
+
+## Submitted Speedruns
+Speedrun.com: https://www.speedrun.com/users/StarlyTTV
