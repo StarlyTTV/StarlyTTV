@@ -22,8 +22,8 @@ Twitch: https://www.twitch.tv/starlyttv <br>
 Main Channel: https://www.youtube.com/@Starly1 <br>
 Clips Channel: https://www.youtube.com/@StarlyClips <br>
 VOD Channel: https://www.youtube.com/@StarlyVODS <br>
-German Channel: https://www.youtube.com/@StarlyDE <br>
-Extras Channel: https://www.youtube.com/@StarlyExtras
+Extras Channel: https://www.youtube.com/@StarlyExtras <br>
+German Channel: https://www.youtube.com/@StarlyDE
 
 ## Social Media
 Twitter: https://twitter.com/StarlyTTV <br>
