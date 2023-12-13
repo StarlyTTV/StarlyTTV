@@ -36,3 +36,9 @@ Romhacking.com: https://romhacking.com/user/Starly
 
 ## Submitted Speedruns
 Speedrun.com: https://www.speedrun.com/users/StarlyTTV
+
+# Contact Mail
+If you wanna contact me via Email,
+
+## Email address
+StarlyContact@protonmail.com
