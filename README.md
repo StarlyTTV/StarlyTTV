@@ -9,7 +9,7 @@ The reason why I made a Github Account and these Repositories is, that I wanna m
 I'm planning on creating a bunch of different Mods for Games myself, because there are many ideas that I wanna try out.
 
 # Links 
-These are the Links from Starly.
+These are the Links from me (Starly).
 
 ## Community
 Discord Server: https://discord.gg/UstTa9tPUs <br>
@@ -21,7 +21,7 @@ Twitch: https://www.twitch.tv/starlyttv <br>
 ## YouTube Accounts
 Main Channel: https://www.youtube.com/@Starly1 <br>
 Clips Channel: https://www.youtube.com/@StarlyClips <br>
-VOD Channel: https://www.youtube.com/@StarlyVODS <br>
+VODS Channel: https://www.youtube.com/@StarlyVODS <br>
 Extras Channel: https://www.youtube.com/@StarlyExtras <br>
 German Channel: https://www.youtube.com/@StarlyDE
 
