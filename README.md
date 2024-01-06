@@ -9,7 +9,7 @@ The reason why I made a Github Account and these Repositories is, that I wanna m
 I'm planning on creating a bunch of different Mods for Games myself, because there are many ideas that I wanna try out.
 
 # Links 
-These are the Links from me Starly.
+These are the Links from Starly.
 
 ## Community
 Discord Server: https://discord.gg/UstTa9tPUs <br>
